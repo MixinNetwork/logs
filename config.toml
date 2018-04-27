@@ -1,0 +1,8 @@
+baseURL = "https://mixin.one/"
+languageCode = "en-us"
+title = "logs.mixin.one"
+
+[outputs]
+  home = ["json"]
+  page = ["json"]
+  section = ["json"]
