@@ -1,6 +1,6 @@
 {
   "name": "{{ .Title }}",
   "created_at" : "{{ .Date }}",
-  "content": "{{ replace .Content "\n" "" }}"
+  "content": {{ replace .Content "\n" "" | jsonify }}
 }
 
