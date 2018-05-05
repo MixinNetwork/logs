@@ -8,4 +8,3 @@ Mixin acts like the lighting network for Bitcoin when serves as a wallet for oth
 Mixin address can actually receive those kind of Airdrops, but the amount may be incorrect in most time, it may be much larger or smaller.
 
 If you take those Airdrops seriously, please transfer your related assets to supported wallets before the corresponding events.
-
